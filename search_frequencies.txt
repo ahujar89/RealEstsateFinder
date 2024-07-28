@@ -1,0 +1,36 @@
+bc: 2
+east royalty: 1
+toronto: 25
+400000.0-500000.0: 9
+freelton: 1
+quesnel: 1
+lassale: 2
+winnipeg: 23
+mb: 1
+400000.0-450000.0: 1
+kelowna: 1
+island view: 1
+olds: 1
+esquimalt: 4
+yt: 17
+ottawa: 4
+on: 1
+windsor: 84
+ab: 1
+sops arm: 1
+st. john's: 1
+wabush: 1
+5000000.0-6000000.0: 1
+vernon: 1
+lasalle: 8
+red deer: 2
+edmonton: 3
+kitchener: 1
+mattawa: 1
+108 mile ranch: 1
+3: 1
+tiny: 1
+4000000.0-5000000.0: 3
+500000.0-600000.0: 1
+lasallle: 1
+nl: 3
