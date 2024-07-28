@@ -1,6 +1,4 @@
-# RealEstsateFinder
-
-# Real Estate Scraper
+# Real Estsate Finder
 
 Welcome to the Real Estate Scraper project! This application scrapes data from real estate websites like Remax and Zolo, processes the data, and provides users with various search functionalities to explore property listings.
 
