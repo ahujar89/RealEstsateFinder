@@ -1,6 +1,6 @@
 # Real Estsate Finder
 
-Welcome to the Real Estate Scraper project! This application scrapes data from real estate websites like Remax and Zolo, processes the data, and provides users with various search functionalities to explore property listings.
+Welcome to the Real Estate Scraper project! This application scrapes data from real estate websites like Remax and Zolo, processes the data, and provides users with various search functionalities to explore property listings. I have used Selenium to scrap the required data from Remax and Zolo websites.
 
 ## Features
 
@@ -19,6 +19,7 @@ Welcome to the Real Estate Scraper project! This application scrapes data from r
 ### Prerequisites
 
 - Java 8 or above
+- Selenium
 - Internet connection (for web scraping)
 
 ## Usage
